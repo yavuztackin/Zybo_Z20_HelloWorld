@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat Jan  6 01:23:35 2024
+# Process ID: 23080
+# Current directory: C:/Users/YAVUZ/Desktop/Vivado Projects/Zybo_Z20_HelloWorld/Zybo_Z20_HelloWorld.runs/synth_1
+# Command line: vivado.exe -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
+# Log file: C:/Users/YAVUZ/Desktop/Vivado Projects/Zybo_Z20_HelloWorld/Zybo_Z20_HelloWorld.runs/synth_1/design_1_wrapper.vds
+# Journal file: C:/Users/YAVUZ/Desktop/Vivado Projects/Zybo_Z20_HelloWorld/Zybo_Z20_HelloWorld.runs/synth_1\vivado.jou
+# Running On: DESKTOP-995NT4F, OS: Windows, CPU Frequency: 2808 MHz, CPU Physical cores: 6, Host memory: 16997 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace

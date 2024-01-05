@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# updatemem v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# 
+# Start of session at: Fri Jan  5 18:59:56 2024
+# Process ID: 18556
+# Current directory: C:/Users/YAVUZ/Desktop/Vivado Projects/Zybo_Z20_HelloWorld
+# Command line: updatemem.exe -mode batch -source C:/Xilinx/Vitis/2022.2/scripts/updatemem/main.tcl -notrace -tclargs -meminfo C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/design_1_wrapper.mmi -data C:/Xilinx/Vitis/2022.2/data/embeddedsw/lib/microblaze/mb_bootloop_le.elf -proc design_1_i/microblaze_0 -bit C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/design_1_wrapper.bit -out C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/download.bit -force
+# Log file: C:/Users/YAVUZ/Desktop/Vivado Projects/Zybo_Z20_HelloWorld/updatemem.log
+# Journal file: C:/Users/YAVUZ/Desktop/Vivado Projects/Zybo_Z20_HelloWorld\updatemem.jou
+# Running On: DESKTOP-995NT4F, OS: Windows, CPU Frequency: 2808 MHz, CPU Physical cores: 6, Host memory: 16997 MB
+#-----------------------------------------------------------
+source C:/Xilinx/Vitis/2022.2/scripts/updatemem/main.tcl -notrace
+Command: update_mem -meminfo C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/design_1_wrapper.mmi -data C:/Xilinx/Vitis/2022.2/data/embeddedsw/lib/microblaze/mb_bootloop_le.elf -proc design_1_i/microblaze_0 -bit C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/design_1_wrapper.bit -out C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/download.bit -force
+Loading bitfile C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/design_1_wrapper.bit
+Loading data files...
+Updating memory content...
+Creating bitstream...
+Writing bitstream C:/Users/YAVUZ/workspace/swdfgn/_ide/bitstream/download.bit...
+0 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+update_mem completed successfully
+update_mem: Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 1569.535 ; gain = 1460.121
+INFO: [Common 17-206] Exiting updatemem at Fri Jan  5 19:00:06 2024...
