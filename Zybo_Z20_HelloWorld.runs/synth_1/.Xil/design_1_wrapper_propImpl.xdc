@@ -23,3 +23,7 @@ set_property src_info {type:XDC file:1 line:12 export:INPUT save:INPUT read:READ
 set_property PACKAGE_PIN D18 [get_ports {leds_tri_o[3]}]
 set_property src_info {type:XDC file:1 line:13 export:INPUT save:INPUT read:READ} [current_design]
 set_property PACKAGE_PIN Y16 [get_ports reset_rtl]
+set_property src_info {type:XDC file:1 line:38 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN W14 [get_ports uart_rtl_rxd]
+set_property src_info {type:XDC file:1 line:39 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V15 [get_ports uart_rtl_txd]
